@@ -1,0 +1,42 @@
+{
+    "1":{
+        "name": "Alex",
+        "intelligence": 2,
+        "attractiveness":2,
+        "budget":2,
+        "minattractiveness":2,
+        "type":"geek"
+     },
+    "2":{
+        "name": "Andy",
+        "intelligence": 2,
+        "attractiveness":2,
+        "budget":2,
+        "minattractiveness":2 ,
+        "type":"miser"
+    },
+    "3":{
+        "name": "Alex",
+        "intelligence": 2,
+        "attractiveness":2,
+        "budget":2,
+        "minattractiveness":2,
+        "type":"generous" 
+    },
+    "4":{
+        "name": "Alex",
+        "intelligence": 2,
+        "attractiveness":2,
+        "budget":2,
+        "minattractiveness":2,
+        "type":"generous" 
+    },
+    "5":{
+        "name": "Alex",
+        "intelligence": 2,
+        "attractiveness":2,
+        "budget":2,
+        "minattractiveness":2,
+        "type":"geek"
+    }
+}
