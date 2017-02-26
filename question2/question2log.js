@@ -1,6 +1,6 @@
 var question2 = require('./question2');
 var couples = question2.couples;
-console.log(couples);
+//console.log(couples);
 
 for(var key in couples){
     console.log(couples[key].boy.name + " is commited to " + couples[key].girl.name + " on " + couples[key].date);
