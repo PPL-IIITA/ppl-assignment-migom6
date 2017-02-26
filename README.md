@@ -1,8 +1,7 @@
 # ppl-assignment-migom6
-[DOCS](http://example.net/) availabe here. <br>
 ppl-assignment-migom6 created by GitHub Classroom
 ##IRM2015002
-
+[DOCUMENTATION](http://example.net/) availabe here. <br>
 #Description
 __This is the PPL-2017 assignment
   made using EMACSCRIPT 2015(javascript)
