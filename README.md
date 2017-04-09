@@ -24,6 +24,6 @@ _open *question1results.txt* to see the results_
 
 #Question2
 > copy-paste in terminal
-<pre><code> node question1/question2log.js > question2results.txt
+<pre><code> node question2/question2log.js > question2results.txt
 </code></pre>
 _open *question1results.txt* to see the results_
