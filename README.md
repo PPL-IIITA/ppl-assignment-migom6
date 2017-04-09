@@ -12,7 +12,7 @@ __This is the PPL-2017 assignment
 
 # INSTALLATION
 ## For linux users
-> sudo apt-get update
+> sudo apt-get update </br>
 > sudo apt-get install nodejs
 
 ## for mac users
