@@ -9,10 +9,11 @@ __This is the PPL-2017 assignment
   and nodejs__ <br>
   <em> Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 </em>
+
 # INSTALLATION
 ## For linux users
-> 1. sudo apt-get update
-> 2. sudo apt-get install nodejs
+> sudo apt-get update
+> sudo apt-get install nodejs
 
 ## for mac users
 > brew install node
