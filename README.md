@@ -27,3 +27,21 @@ _open *question1results.txt* to see the results_
 <pre><code> node question2/question2log.js > question2results.txt
 </code></pre>
 _open *question1results.txt* to see the results_
+
+#Question4
+> copy-paste in terminal
+<pre><code> node question4/question4.js > question4results.txt
+</code></pre>
+_open *question4results.txt* to see the results_
+
+#Question5
+> copy-paste in terminal
+<pre><code> node question5/question5log.js > question5results.txt
+</code></pre>
+_open *question5results.txt* to see the results_
+
+#Question6
+> copy-paste in terminal
+<pre><code> node question6/question6log.js > question6results.txt
+</code></pre>
+_open *question6results.txt* to see the results_
